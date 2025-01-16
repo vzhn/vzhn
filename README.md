@@ -16,7 +16,7 @@ Senior Software Developer with over 14 years of experience specializing in Java,
 - **Database:** PostgreSQL, Oracle, JDBC
 - **Tools:** Git, GitHub Actions, Jira SDK
 - **Frontend:** React.js, Typescript, HTML5 Canvas, Emotion.js
-- **Systems:** Linux, JNI, Nio, Netty, RTSP
+- **Misc:** Linux, JNI, Nio, Netty, RTSP
 
 ## 💼 Professional Experience
 
