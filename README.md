@@ -3,7 +3,7 @@
 Senior Software Developer with over 14 years of experience specializing in Java, Kotlin, and TypeScript development. I'm passionate about programming and formal logic.
 ## 🐈 Pet-Projects
 - [netty-http-authenticator](https://github.com/vzhn/netty-http-authenticator): basic and Digest authentication for usage with Netty
-- [bstreamer](bstreamer): load testing tools for video survelliance applications: server and client emulators, up to 40Gbps on Linux
+- [bstreamer](https://github.com/vzhn/bstreamer): load testing tools for video survelliance applications: server and client emulators, up to 40Gbps on Linux
 - [z3-parser](https://github.com/vzhn/z3-parser): proof of concept implementation context-free grammars parser with z3 SMT solver.
 - [sat-inv-matrix](https://github.com/vzhn/sat-inv-matrix): implementation of matrix inversion as a SAT solver task, [Habr article](https://habr.com/ru/articles/683670/)
 - [Pan and Zoom transformations demo for HTML5 Canvas](https://github.com/vzhn/pan-zoom-demo): Simple Pan-and-Zoom transformations
